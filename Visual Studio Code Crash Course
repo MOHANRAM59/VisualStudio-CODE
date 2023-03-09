@@ -11,24 +11,35 @@ Stable Versions is widely used by Professional coders ,while insiders coders is 
 In visual Studio there ia mini map in the right side of the screen ,which is used for quick access of the code block which is to be altered
 In Visual code there are many Example codes and keyboard shortcuts which will help the Early Adopters.
 
-                Some shortcuts available in Visual Basic for Better Coding experience: 
+                Some windows Os keybord shortcuts available in Visual Studio  for Better Coding experience: 
 
-Ctrl,shift tab is used to Toggle  through those Files.
-Ctrl+Home or End  to go to the beginning or end of the code.
-"!"  is an emment to create a Doctype html code.
-div.(class_name) is used for creating a Division tag with class.
+ 1.Ctrl,shift tab :
+             used to Toggle  through the Files.
+ 2.Ctrl+Home or End :
+             used to go to the beginning or end of the code.
+ 3."!"  is an emment to create a Doctype html code.
+ 4.Ctrl+F:
+             used to open Search Window.
+ 5.Ctrl+P:
+             Quick file open.
+ 6.Command Pallete:
+             ctrl+shift+P.
+             
+               Some coding Shortcuts Available in Visual Studio:
+               
+1)div.(class_name) is used for creating a Division tag with class.
         E.g: div.container will create,
                     <div class="container">  </div>
-div#(id_name)  will create Division tag with id ,
+2)div#(id_name)  will create Division tag with id ,
         E.g: div#full will create,
                     <div id="full>  </div>
-div.(class_name)#(id_name) is used for creating a Division Tag wil both class and id,
+3)div.(class_name)#(id_name) is used for creating a Division Tag wil both class and id,
         E.g: div.container#full will create,
                     <div class="container" id="full"></div>
-.class_name#id_name which is also a shortcut to create a division tag with both class and id,
+4).class_name#id_name which is also a shortcut to create a division tag with both class and id,
         E.g: .container#full will create,
                       <div class="container" id="full"></div>
- input : text will create an input tag with text as input,
+5)input : text will create an input tag with text as input,
         E.g: <input type ="text" name="" id="">
                            
                            
@@ -42,6 +53,7 @@ div.(class_name)#(id_name) is used for creating a Division Tag wil both class an
               will help the user by auto aligning  the paragraphs.
  
                     Some useful Extensions in Visual Studio :
+                    
  Extensions are add-ons that allow you to customize and enhance your experience in Visual Studio by adding new features or integrating existing tools.
  1) Cobalt2 theme:
                 for changing a perfect theme
