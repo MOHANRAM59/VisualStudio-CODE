@@ -27,13 +27,13 @@ In Visual code there are many Example codes and keyboard shortcuts which will he
              
                Some coding Shortcuts Available in Visual Studio:
                
-1)div.(class_name) is used for creating a Division tag with class.
+1)div.class_name is used for creating a Division tag with class.
         E.g: div.container will create,
                     <div class="container">  </div>
-2)div#(id_name)  will create Division tag with id ,
+2)div#id_name  will create Division tag with id ,
         E.g: div#full will create,
                     <div id="full>  </div>
-3)div.(class_name)#(id_name) is used for creating a Division Tag wil both class and id,
+3)div.class_name#id_name is used for creating a Division Tag wil both class and id,
         E.g: div.container#full will create,
                     <div class="container" id="full"></div>
 4).class_name#id_name which is also a shortcut to create a division tag with both class and id,
