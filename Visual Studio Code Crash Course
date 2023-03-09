@@ -34,14 +34,36 @@ div.(class_name)#(id_name) is used for creating a Division Tag wil both class an
                            
                    Some useful inbuilt settings and plugins in Visual Studio :
  
- 1) Emment: it is a built in plugin which has support for the majority of the Emmet Actions including expanding Emmet abbreviations and snippets.
- 2) Cascadia code : helps in friendly font style for better coding experience which built by MS font ligatures.
- 3) word wrap: will help the user by auto aligning  the paragraphs.
+ 1) Emment:
+          it is a built in plugin which has support for the majority of the Emmet Actions including expanding Emmet abbreviations and snippets.
+ 2) Cascadia code : 
+                   helps in friendly font style for better coding experience which built by MS font ligatures.
+ 3) word wrap: 
+              will help the user by auto aligning  the paragraphs.
  
                     Some useful Extensions in Visual Studio :
  Extensions are add-ons that allow you to customize and enhance your experience in Visual Studio by adding new features or integrating existing tools.
- 1)Cobalt2 theme: for changing a perfect theme
- 2)Prettier: This extention
+ 1) Cobalt2 theme:
+                for changing a perfect theme
+ 2) Prettier:
+           This extention  instantly formats the code when saved.
+ 3) Advanced_new_file:
+           This Extention will create new file By using Commands.
+ 4) Better comments:
+           This will highlight the commands in different colors.
+ 5) Quokka.js:
+           This will provide JavaScript playground and  TypeScript for the user.
+ 6) Live server:
+           Live Server - Web Extension is a browser extension that helps you to live reload feature for dynamic content
+ 7) Pola code:
+           This Extention will allow the user to take image of the code.
+ 8) Auto Rename Tag:
+           This Extention will auto audate the tags.
+ 9) Bracket Pair Colorizer:
+           This Extention will give color to all the bracket pairs.
+ 10)cloak:
+           This Extension will allow the user to present on stage,stream on Twitch or Youtube.
+
  
  
  
