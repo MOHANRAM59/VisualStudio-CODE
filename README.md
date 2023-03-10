@@ -1,1 +1,1 @@
-vs code
+Visual Studio code
