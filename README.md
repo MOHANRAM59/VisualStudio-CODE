@@ -12,7 +12,7 @@ Stable Versions is widely used by Professional coders ,while insiders coders is 
 In visual Studio there ia mini map in the right side of the screen ,which is used for quick access of the code block which is to be altered
 In Visual code there are many Example codes and keyboard shortcuts which will help the Early Adopters.
 
-                Some windows Os keybord shortcuts available in Visual Studio  for Better Coding experience: 
+                #Some windows Os keybord shortcuts available in Visual Studio  for Better Coding experience: 
 
  1.Ctrl,shift tab :
              used to Toggle  through the Files.
